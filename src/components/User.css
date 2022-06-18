@@ -1,0 +1,38 @@
+.form-control{
+    border: 2pt black solid ;
+    margin:80px 300px;
+    width: 50%;
+    /*display: flex;*/
+}
+
+.UserName,.Age,button {
+    margin:10px 30px;
+
+}
+button{
+    background-color: blueviolet;
+}
+ 
+.wrapper{
+    width: 50%;
+    background-color: white !important;
+}
+
+
+#userName{
+    display: block;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+label{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #111f1f;
+}
+
+#Age {
+    width: 100%;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
